@@ -1,0 +1,8 @@
+rootProject.name = 'formbuilder'
+include 'sap-web'
+include 'sap-proceeds-service'
+include 'sap-payment-service'
+include 'sap-fundsmanager-service'
+include 'sap-cost-service'
+include 'sap-sys-service'
+include 'common'
