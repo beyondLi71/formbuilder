@@ -12,6 +12,7 @@ import java.util.stream.Collectors;
  * @date 2017/7/23 下午7:53
  * @desc  PageResul工厂.
  */
+@Component
 public class PageResultFactory {
 
     public  <T> PageResult createPageResult(int page, int count, List<T> data) {
